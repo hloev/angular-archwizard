@@ -2,15 +2,12 @@
   "name": "angular-archwizard",
   "version": "8.0.0-develop",
   "license": "MIT",
-  "description": "An Angular 9+ module containing a wizard component and its supporting components and directives",
+  "description": "An Angular 14+ module containing a wizard component and its supporting components and directives",
   "homepage": "https://github.com/madoar/angular-archwizard",
-  "author": {
-    "name": "Marc Arndt",
-    "email": "marc.arndt@masimi.de"
-  },
+  "author": "Marc Arndt <marc.arndt@masimi.de>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/madoar/angular-archwizard"
+    "url": "git+https://github.com/madoar/angular-archwizard.git"
   },
   "bugs": {
     "url": "https://github.com/madoar/angular-archwizard/issues"
@@ -81,5 +78,6 @@
   },
   "dependencies": {
     "tslib": "^2.4.1"
-  }
+  },
+  "main": "karma.conf.js"
 }
