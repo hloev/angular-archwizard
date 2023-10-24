@@ -26,6 +26,7 @@ The following table shows which version of `angular-archwizard` has been built w
 | `5.0.1`                      | Angular 8       |
 | `6.1.0`                      | Angular 9       |
 | `7.0.0`                      | Angular 11      |
+| `8.0.0`                      | Angular 14+     |
 
 ## Gitpod
 `angular-archwizard` can be developed with Gitpod, a free one-click online IDE for GitHub:
